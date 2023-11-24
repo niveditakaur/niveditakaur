@@ -2,18 +2,17 @@
 
 - 💻 MERN Stack Developer Intern at TriwebAPI
 - 👩🏻‍🎓 BCA Student (**Graphic Era University, Dehradun**)
-- 🧠 Shaperning my Development skills
+- 🧠 Sharpening my Development skills
 - 📜 [My Resume](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:48580d63-f5ca-4bc2-b97a-1cdc87bdb779)
 
 To know more about me:
 
 <div>
 <a href="mailto:niveditakaur5244@gmail.com">
-  <img alt="Nivedita's Email" height="60px" src="https://user-images.githubusercontent.com/85930567/175770833-302b4ef2-faeb-421f-88eb-744737a4ad74.png"
-/>
+  <img alt="Nivedita's Email" height="40px" src="https://user-images.githubusercontent.com/85930567/175770833-302b4ef2-faeb-421f-88eb-744737a4ad74.png"/>
 </a>  &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/niveditakaur/">
-  <img alt="Nivedita's Linkedin" height="60px" src="https://user-images.githubusercontent.com/85930567/175769904-8f101a4f-5415-4855-83d8-11e8c1ee37b1.png" />
+  <img alt="Nivedita's Linkedin" height="40px" src="https://user-images.githubusercontent.com/85930567/175769904-8f101a4f-5415-4855-83d8-11e8c1ee37b1.png"/>
 </a>
 </div>
 
@@ -86,13 +85,13 @@ To know more about me:
 ## 📈 Github Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=niveditakaur&show_icons=true&hide_border=true&theme=material-palenight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=niveditakaur&hide_border=true&theme=material-palenight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveditakaur&show_icons=true&layout=compact&hide_border=true&theme=material-palenight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=niveditakaur&show_icons=true&include_all_commits=true&hide_border=true&theme=buefy&hide=stars,issues" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=niveditakaur&hide_border=true&theme=buefy" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveditakaur&show_icons=true&layout=donut&hide_border=true&theme=buefy" />
 </p>
 
 ## 🎡 Contribution Graph
 
-<p align="left">
-  <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=niveditakaur&theme=material-palenight&area=true&radius=14" alt = "Contribution Graph") </p>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niveditakaur&theme=buefy&area=true&radius=14" alt="Contribution Graph">
+</div>
