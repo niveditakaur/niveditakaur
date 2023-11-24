@@ -84,14 +84,18 @@ To know more about me:
 
 ## 📈 Github Analytics
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=niveditakaur&show_icons=true&include_all_commits=true&theme=buefy" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=niveditakaur&theme=buefy" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveditakaur&show_icons=true&layout=donut&theme=buefy" />
-</p>
+<a href="https://github.com/niveditakaur">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niveditakaur&theme=buefy" />
+</a>
+<a href="https://github.com/niveditakaur">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveditakaur&layout=compact&theme=buefy&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/niveditakaur">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niveditakaur&theme=buefy" />
+</a>
 
 ## 🎡 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niveditakaur&theme=minimal&area=true&radius=14&title_color=9479dd&point=ff3860" alt="Contribution Graph">
-</div>
+<a href="https://github.com/niveditakaur">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=niveditakaur&theme=minimal&area=true&radius=14&title_color=9479dd&point=ff3860" alt="Contribution Graph"/>
+</a>
