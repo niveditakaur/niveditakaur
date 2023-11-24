@@ -85,7 +85,7 @@ To know more about me:
 ## 📈 Github Analytics
 
 <a href="https://github.com/niveditakaur">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niveditakaur&theme=buefy" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=niveditakaur&show_icons=true&include_all_commits=true&theme=buefy" />
 </a>
 <a href="https://github.com/niveditakaur">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveditakaur&layout=compact&theme=buefy&langs_count=8&card_width=320" />
