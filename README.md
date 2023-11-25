@@ -86,16 +86,16 @@ To know more about me:
 
 <p align="center">
 <a href="https://github.com/niveditakaur">
-  <img height=150 width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niveditakaur&theme=buefy&hide_border=false&border_color=FFCC33" alt="Nivedita's github stats" />
+  <img height=150 width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niveditakaur&theme=buefy&hide_border=false" alt="Nivedita's github stats" />
 </a> 
 <a href="https://github.com/niveditakaur">
-    <img height=150 width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveditakaur&layout=compact&theme=buefy&hide_border=false&border_color=FFCC33" alt="Nivedita's github stats"/>
+    <img height=150 width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveditakaur&layout=compact&theme=buefy&hide_border=false" alt="Nivedita's github stats"/>
 </a> 
 </p>
 <br>
 <p align="center">
 <a href="https://github.com/niveditakaur">
-    <img height=150 width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=niveditakaur&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false&border_color=FFCC33" alt="Nivedita's github stats"/>
+    <img height=150 width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=niveditakaur&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Nivedita's github stats"/>
 </a> 
 </p>
 
