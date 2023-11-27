@@ -28,7 +28,7 @@ To know more about me:
 
 ### 📝 Languages
 
-[![Languages](https://skillicons.dev/icons?i=c,cpp,py,md,java,PHP,latex)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,py,md,java,php,latex)](https://skillicons.dev)
 
 ### 💻 Frontend
 
@@ -36,7 +36,7 @@ To know more about me:
 
 ### 🛢️ Backend
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,MySQL,mongodb)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb)](https://skillicons.dev)
 
 ### 🧩 Libraries & Frameworks
 
