@@ -48,7 +48,7 @@ To know more about me:
 
 ### 🎨 Design
 
-[![Design](https://skillicons.dev/icons?i=ai,ps)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=ai,ps)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height=48/>
 
 ### 🖥️ Workspace
 
