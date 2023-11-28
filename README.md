@@ -32,7 +32,7 @@ To know more about me:
 
 ### 💻 Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,html,css,js,ts)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,html,css,js,ts,svg)](https://skillicons.dev)
 
 ### 🛢️ Backend
 
@@ -40,15 +40,15 @@ To know more about me:
 
 ### 🧩 Libraries & Frameworks
 
-[![LF](https://skillicons.dev/icons?i=react,bootstrap,materialui,firebase)](https://skillicons.dev)
+[![LF](https://skillicons.dev/icons?i=react,bootstrap,styledcomponents,materialui,firebase)](https://skillicons.dev)
 
-### 👩🏻💻 Tools & Platforms
+### 👩🏻💻 Tools Platforms & IDE
 
-[![TP](https://skillicons.dev/icons?i=git,postman,vscode,github,vercel)](https://skillicons.dev)
+[![TPI](https://skillicons.dev/icons?i=git,bash,babel,postman,github,vercel,vscode,androidstudio)](https://skillicons.dev)
 
 ### 🎨 Design
 
-[![Design](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=ai,ps)](https://skillicons.dev)
 
 ### 🖥️ Workspace
 
