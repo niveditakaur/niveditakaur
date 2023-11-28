@@ -97,6 +97,8 @@ To know more about me:
 
 ---
 
+## 🎶 Latest Spotify Jams
+
 <div align="center">
   <a href="#">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=bu6683h1prr583xo8x81b9gzf"/>
