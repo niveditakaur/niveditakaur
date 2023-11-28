@@ -2,6 +2,7 @@
 
 <img align="right" alt="Visits" src="https://komarev.com/ghpvc/?username=niveditakaur&label=Profile%20views&color=blueviolet&style=flat">
 <br>
+
 - 💻 MERN Stack Developer Intern at TriwebAPI
 - 👩🏻‍🎓 BCA Student (**Graphic Era University, Dehradun**)
 - 🧠 Sharpening my Development skills
@@ -74,7 +75,7 @@ To know more about me:
 
 <div align="center">
   <a href="#">
-    <img height="150em" width="270em" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveditakaur&layout=compact&theme=buefy&hide_border=false" alt="Nivedita's top lang"/>
+    <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveditakaur&layout=compact&theme=buefy&hide_border=false" alt="Nivedita's top lang"/>
   </a>
   <a href="#">
     <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niveditakaur&theme=buefy" alt="Nivedita's github summary"/>
