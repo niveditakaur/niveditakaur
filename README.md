@@ -97,9 +97,3 @@ To know more about me:
 
 ---
 
-<div align="center">
-  <a href="https://github.com/tthn0/Spotify-Readme">
-    <img src="https://readmespotify.vercel.app/api?rainbow=true" alt="Current Spotify Song">
-  </a>
-</div>
-
