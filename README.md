@@ -75,7 +75,7 @@ To know more about me:
 
 <div align="center">
   <a href="#">
-    <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveditakaur&layout=compact&theme=buefy&hide_border=false" alt="Nivedita's top lang"/>
+    <img height="150em" width="310em" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveditakaur&layout=compact&theme=buefy&hide_border=false" alt="Nivedita's top lang"/>
   </a>
   <a href="#">
     <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niveditakaur&theme=buefy" alt="Nivedita's github summary"/>
@@ -85,7 +85,7 @@ To know more about me:
 <div align="center">
   <a href="#">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=niveditakaur&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Nivedita's github stats"/>
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=niveditakaur&theme=buefy&hide_border=false" alt="Nivedita's github streak"/>
+    <img width="49.5%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=niveditakaur&theme=buefy&hide_border=false" alt="Nivedita's github streak"/>
   </a>
 </div>
   <br>
