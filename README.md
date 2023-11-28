@@ -97,3 +97,8 @@ To know more about me:
 
 ---
 
+<div align="center">
+  <a href="#">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bu6683h1prr583xo8x81b9gzf"/>
+  </a>
+</div>
