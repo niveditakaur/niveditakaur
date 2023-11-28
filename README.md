@@ -99,6 +99,17 @@ To know more about me:
 
 <div align="center">
   <a href="https://github.com/tthn0/Spotify-Readme">
-    <img src="https://readmespotify.vercel.app/api?rainbow=true" alt="Current Spotify Song">
+    <picture>
+      <source
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        srcset="https://readmespotify.vercel.app/api?theme=light&scan=true&rainbow=true"
+      />
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://readmespotify.vercel.app/api?theme=dark&scan=true&rainbow=true"
+      />
+      <img alt="Current Spotify Song"> 
+    </picture>
   </a>
 </div>
+
