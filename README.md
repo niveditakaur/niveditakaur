@@ -40,7 +40,7 @@ To know more about me:
 
 ### 🧩 Libraries & Frameworks
 
-[![LF](https://skillicons.dev/icons?i=react,bootstrap,materialui,firebase,nodejs)](https://skillicons.dev)
+[![LF](https://skillicons.dev/icons?i=react,bootstrap,materialui,firebase)](https://skillicons.dev)
 
 ### 👩🏻💻 Tools & Platforms
 
