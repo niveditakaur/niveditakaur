@@ -84,7 +84,7 @@ To know more about me:
   <br>
 <div align="center">
   <a href="#">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=niveditakaur&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Nivedita's github stats"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=niveditakaur&show_icons=true&include_all_commits=true&theme=buefy" alt="Nivedita's github stats"/>
     <img width="48%" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=niveditakaur&theme=buefy&hide_border=false" alt="Nivedita's github streak"/>
   </a>
 </div>
