@@ -1,5 +1,7 @@
 # Nivedita Kaur 👩🏻‍💻 <br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fragment+Mono&weight=500&size=20&pause=1000&color=3547D4&random=false&width=435&lines=Full+Stack+Developer;Graphic+Designer)](https://git.io/typing-svg)
 
+<img align="right" alt="Visits" src="https://komarev.com/ghpvc/?username=niveditakaur&label=Profile%20views&color=blueviolet&style=flat">
+
 - 💻 MERN Stack Developer Intern at TriwebAPI
 - 👩🏻‍🎓 BCA Student (**Graphic Era University, Dehradun**)
 - 🧠 Sharpening my Development skills
@@ -72,7 +74,7 @@ To know more about me:
 
 <div align="center">
   <a href="#">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveditakaur&layout=compact&theme=buefy&hide_border=false" alt="Nivedita's top lang"/>
+    <img height="150em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveditakaur&layout=compact&theme=buefy&hide_border=false" alt="Nivedita's top lang"/>
   </a>
   <a href="#">
     <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niveditakaur&theme=buefy" alt="Nivedita's github summary"/>
