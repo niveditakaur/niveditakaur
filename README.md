@@ -64,7 +64,7 @@ To know more about me:
 
 <p align="center">
   <a href="https://leetcode.com/niveditakaurr/">
-  <img alt="LeetCode Stat Card" src="https://leetcard.jacoblin.cool/niveditakaurr?theme=light&ext=heatmap&width=450&font=noto_sans_display"/>
+  <img alt="LeetCode Stat Card" src="https://leetcard.jacoblin.cool/niveditakaurr?theme=light&ext=heatmap&width=480&font=noto_sans_display"/>
   </a>
 </p>
 
