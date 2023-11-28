@@ -38,21 +38,21 @@ To know more about me:
 
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb)](https://skillicons.dev)
 
-### 🧩 Libraries & Frameworks
+### 🧩 Libraries, Frameworks & Packages
 
-[![LF](https://skillicons.dev/icons?i=react,bootstrap,styledcomponents,materialui,firebase)](https://skillicons.dev)
+[![LF](https://skillicons.dev/icons?i=react,bootstrap,styledcomponents,materialui,firebase)](https://skillicons.dev) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height=48/>  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height=48/>
 
 ### 👩🏻💻 Tools, Platforms & IDE
 
-[![TPI](https://skillicons.dev/icons?i=git,bash,babel,postman,github,vercel,vscode,androidstudio)](https://skillicons.dev)
+[![TPI](https://skillicons.dev/icons?i=git,bash,babel,postman,github,vercel,vscode,androidstudio)](https://skillicons.dev) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height=48/>
 
 ### 🎨 Design
 
-[![Design](https://skillicons.dev/icons?i=ai,ps)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height=48/>
+[![Design](https://skillicons.dev/icons?i=ai,ps)](https://skillicons.dev) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height=48/>
 
 ### 🖥️ Workspace
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height=48/>
 
 ---
 
