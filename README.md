@@ -1,6 +1,6 @@
 # Nivedita Kaur 👩🏻‍💻 <br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fragment+Mono&weight=500&size=20&pause=1000&color=3547D4&random=false&width=435&lines=Full+Stack+Developer;Graphic+Designer)](https://git.io/typing-svg)
 
-<img align="right" alt="Visits" src="https://komarev.com/ghpvc/?username=niveditakaur&label=Profile%20views&color=blue&style=flat">
+<img align="right" alt="Visits" src="https://komarev.com/ghpvc/?username=niveditakaur&label=Profile%20views&color=darkblue&style=flat">
 <br>
 
 - 💻 MERN Stack Developer Intern at TriwebAPI
@@ -84,7 +84,7 @@ To know more about me:
   <br>
 <div align="center">
   <a href="#">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=niveditakaur&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Nivedita's github stats"/>
+    <img width="48%" src="" alt="Nivedita's github stats"/>
     <img width="48%" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=niveditakaur&theme=buefy&hide_border=false" alt="Nivedita's github streak"/>
   </a>
 </div>
@@ -101,6 +101,6 @@ To know more about me:
 
 <div align="center">
   <a href="#">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bu6683h1prr583xo8x81b9gzf"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bu6683h1prr583xo8x81b9gzf" alt="Nivedita's Spotify Recently Played"/>
   </a>
 </div>
