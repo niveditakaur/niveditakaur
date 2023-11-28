@@ -44,7 +44,7 @@ To know more about me:
 
 ### 👩🏻💻 Tools, Platforms & IDE
 
-[![TPI](https://skillicons.dev/icons?i=git,bash,babel,postman,github,vercel,vscode,androidstudio)](https://skillicons.dev) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height=48/>
+[![TPI](https://skillicons.dev/icons?i=git,bash,babel,postman,github,vercel,vscode,androidstudio)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height=48/>
 
 ### 🎨 Design
 
@@ -64,7 +64,7 @@ To know more about me:
 
 <p align="center">
   <a href="https://leetcode.com/niveditakaurr/">
-  <img alt="LeetCode Stat Card" src="https://leetcard.jacoblin.cool/niveditakaurr?theme=light&ext=heatmap&width=480&font=noto_sans_display"/>
+  <img alt="LeetCode Stat Card" src="https://leetcard.jacoblin.cool/niveditakaurr?theme=light&ext=heatmap&width=490&font=noto_sans_display"/>
   </a>
 </p>
 
