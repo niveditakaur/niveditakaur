@@ -85,12 +85,20 @@ To know more about me:
 <div align="center">
   <a href="#">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=niveditakaur&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Nivedita's github stats"/>
-    <img width="49.5%" height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=niveditakaur&theme=buefy&hide_border=false" alt="Nivedita's github streak"/>
+    <img width="49.5%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=niveditakaur&theme=buefy&hide_border=false" alt="Nivedita's github streak"/>
   </a>
 </div>
   <br>
 <div align="center">
   <a href="#">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=niveditakaur&theme=minimal&area=true&radius=14&title_color=9479dd&point=ff3860&line=FFDF99" alt="Contribution Graph"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/tthn0/Spotify-Readme">
+    <img src="https://readmespotify.vercel.app/api?rainbow=true" alt="Current Spotify Song">
   </a>
 </div>
