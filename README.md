@@ -42,7 +42,7 @@ To know more about me:
 
 [![LF](https://skillicons.dev/icons?i=react,bootstrap,styledcomponents,materialui,firebase)](https://skillicons.dev)
 
-### 👩🏻💻 Tools Platforms & IDE
+### 👩🏻💻 Tools, Platforms & IDE
 
 [![TPI](https://skillicons.dev/icons?i=git,bash,babel,postman,github,vercel,vscode,androidstudio)](https://skillicons.dev)
 
@@ -55,6 +55,18 @@ To know more about me:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
+
+## 🌐 Coding Profile
+
+<p align="center">
+  <a href="https://leetcode.com/niveditakaurr/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+<br/>
+
+<p align="center">
+  <a href="https://leetcode.com/niveditakaurr/">
+  <img alt="LeetCode Stat Card" src="https://leetcard.jacoblin.cool/niveditakaurr?theme=light&ext=heatmap&font=noto_sans_display" width="500"/>
+  </a>
+</p>
 
 ## 📈 GitHub Analytics
 
