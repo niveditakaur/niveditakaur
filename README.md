@@ -78,7 +78,7 @@ To know more about me:
     <img width="280em" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveditakaur&layout=compact&theme=buefy&hide_border=false" alt="Nivedita's top lang"/>
   </a>
   <a href="#">
-    <img width="540em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niveditakaur&theme=buefy" alt="Nivedita's github summary"/>
+    <img width="500em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niveditakaur&theme=buefy" alt="Nivedita's github summary"/>
   </a>
 </div>
   <br>
