@@ -80,9 +80,9 @@ To know more about me:
   <a href="#">
     <img width="520em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niveditakaur&theme=buefy" alt="Nivedita's github summary"/>
   </a>
-</div>
+
   <br>
-<div align="center">
+
   <a href="#">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=niveditakaur&theme=buefy&show_icons=true&hide_border=false" alt="Nivedita's github stats"/>
   </a>
