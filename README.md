@@ -75,10 +75,10 @@ To know more about me:
 
 <div align="center">
   <a href="#">
-    <img height="170em"  width="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveditakaur&layout=compact&theme=buefy&hide_border=false" alt="Nivedita's top lang"/>
+    <img height="160em"  width="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveditakaur&layout=compact&theme=buefy&hide_border=false" alt="Nivedita's top lang"/>
   </a>
   <a href="#">
-    <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niveditakaur&theme=buefy" alt="Nivedita's github summary"/>
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niveditakaur&theme=buefy" alt="Nivedita's github summary"/>
   </a>
 </div>
   <br>
