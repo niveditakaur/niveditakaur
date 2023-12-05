@@ -6,7 +6,7 @@
 - 💻 MERN Stack Developer Intern at TriwebAPI
 - 👩🏻‍🎓 BCA Student (**Graphic Era University, Dehradun**)
 - 🧠 Sharpening my Development skills
-- 📜 [My Resume](https://drive.google.com/file/d/14o5qvKcvEoA5ifOM8uTKbAo7BwaTTxkL/view?usp=drive_link)
+- 📜 [My Resume](https://drive.google.com/file/d/1VQ-oiMXNXOllJoqf4enqCbpv_d9qU1LD/view?usp=drive_link)
 
 To know more about me:
 
