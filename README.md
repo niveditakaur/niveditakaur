@@ -4,9 +4,7 @@
 <br>
 
 - 💻 MERN Stack Developer Intern at TriwebAPI
-
 <a href="https://app.daily.dev/niveditakaur"><img src="https://api.daily.dev/devcards/bcea52bc0fbf485e8d4cac6a4091afa1.png?r=i50" width="25%" align="right" alt="Nivedita Kaur's Dev Card"/></a>
-
 - 👩🏻‍🎓 BCA Student (**Graphic Era University, Dehradun**)
 - 🧠 Sharpening my Development skills
 - 📜 [My Resume](https://drive.google.com/file/d/1EXesz9YjDy8lBVBm2lmD8SzGFCai9rOY/view?usp=sharing)
