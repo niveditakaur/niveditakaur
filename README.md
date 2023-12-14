@@ -25,7 +25,7 @@ To know more about me:
 
 | 🏢 Company                          | 💼 Role              | 🕰️ Duration         |
 | ----------------------------------- | -------------------- | ------------------- |
-| [TriwebAPI](https://triwebapi.com/) | MERN Stack Developer | Aug 2023 - Nov 2023 |
+| [TriwebAPI](https://triwebapi.com/) | MERN Stack Development Intern | Aug 2023 - Nov 2023 |
 
 ## 🌟 Tech Stack
 
