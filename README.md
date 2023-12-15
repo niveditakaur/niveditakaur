@@ -1,6 +1,6 @@
 # Nivedita Kaur 👩🏻‍💻 <br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fragment+Mono&weight=500&size=20&pause=1000&color=3547D4&random=false&width=435&lines=Full+Stack+Developer;Graphic+Designer)](https://git.io/typing-svg)
 
-<a href="https://app.daily.dev/niveditakaur"><img src="https://api.daily.dev/devcards/bcea52bc0fbf485e8d4cac6a4091afa1.png?r=i50" width="25%" align="right" alt="Nivedita Kaur's Dev Card"/></a>
+<a href="https://app.daily.dev/niveditakaur"><img src="https://api.daily.dev/devcards/bcea52bc0fbf485e8d4cac6a4091afa1.png?r=3tw" width="25%" align="right" alt="Nivedita Kaur's Dev Card"/></a>
 <img alt="Visits" src="https://visitcount.itsvg.in/api?id=niveditakaur&label=Profile%20Impressions%20&color=1&icon=3&pretty=false">
 
 - 💻 MERN Stack Developer Intern at TriwebAPI
