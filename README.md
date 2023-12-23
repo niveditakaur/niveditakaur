@@ -3,9 +3,8 @@
 <a href="https://app.daily.dev/niveditakaur"><img src="https://api.daily.dev/devcards/bcea52bc0fbf485e8d4cac6a4091afa1.png?r=6f5" width="25%" align="right" alt="Nivedita Kaur's Dev Card"/></a>
 <img alt="Visits" src="https://visitcount.itsvg.in/api?id=niveditakaur&label=Profile%20Impressions%20&color=1&icon=3&pretty=false">
 
-- 💻 MERN Stack Developer Intern at TriwebAPI
 - 👩🏻‍🎓 BCA Student (**Graphic Era University, Dehradun**)
-- 🧠 Sharpening my Development skills
+- 🧠 Refining Dev Skills & Diving into DSA
 - 📜 [My Resume](https://drive.google.com/file/d/1EXesz9YjDy8lBVBm2lmD8SzGFCai9rOY/view?usp=sharing)
 
 To know more about me:
