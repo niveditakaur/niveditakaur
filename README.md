@@ -27,7 +27,9 @@ To know more about me:
 | [TriwebAPI](https://triwebapi.com/) | MERN Stack Development Intern | Aug 2023 - Nov 2023 |
 
 ## 🌟 Tech Stack
+
 <p align="center">
+  
 [![Languages](https://skillicons.dev/icons?i=c,cpp,py,md,java,php,latex)](https://skillicons.dev)
 
 [![Frontend](https://skillicons.dev/icons?i=react,html,css,js,ts,svg)](https://skillicons.dev)
@@ -41,7 +43,9 @@ To know more about me:
 [![Design](https://skillicons.dev/icons?i=ai,ps)](https://skillicons.dev) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height=48/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height=48/>
+
 </p>
+
 ---
 
 ## 🌐 Coding Profile
