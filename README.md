@@ -27,35 +27,21 @@ To know more about me:
 | [TriwebAPI](https://triwebapi.com/) | MERN Stack Development Intern | Aug 2023 - Nov 2023 |
 
 ## 🌟 Tech Stack
-
-### 📝 Languages
-
+<p align="center">
 [![Languages](https://skillicons.dev/icons?i=c,cpp,py,md,java,php,latex)](https://skillicons.dev)
-
-### 💻 Frontend
 
 [![Frontend](https://skillicons.dev/icons?i=react,html,css,js,ts,svg)](https://skillicons.dev)
 
-### 🛢️ Backend
-
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb)](https://skillicons.dev)
-
-### 🧩 Libraries, Frameworks & Packages
 
 [![LFP](https://skillicons.dev/icons?i=react,bootstrap,styledcomponents,materialui,firebase)](https://skillicons.dev) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height=48/>  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height=48/>
 
-### 👩🏻💻 Tools, Platforms & IDE
-
 [![TPI](https://skillicons.dev/icons?i=git,bash,babel,postman,github,vercel,vscode,androidstudio)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height=48/>
-
-### 🎨 Design
 
 [![Design](https://skillicons.dev/icons?i=ai,ps)](https://skillicons.dev) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height=48/>
 
-### 🖥️ Workspace
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height=48/>
-
+</p>
 ---
 
 ## 🌐 Coding Profile
