@@ -5,7 +5,7 @@
 
 - 👩🏻‍🎓 BCA Student (**Graphic Era University, Dehradun**)
 - 🧠 Refining Dev Skills & Diving into DSA
-- 📜 [My Resume](https://drive.google.com/file/d/1EXesz9YjDy8lBVBm2lmD8SzGFCai9rOY/view?usp=sharing)
+- 📜 [My Resume](https://drive.google.com/file/d/1SsMrgIN6KSjJV3CKpFQEYmIP-mkkku8D/view?usp=drive_link)
 
 To know more about me:
 
